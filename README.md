@@ -4,3 +4,5 @@ Pre-tested Configurations for Marlin Firmware
  
 # Fin
 # Editada desde web
+Si hago muchos cambios
+quiero que me avise antes
